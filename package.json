@@ -1,0 +1,23 @@
+{
+  "name": "formfly",
+  "version": "1.0.0",
+  "description": "A server-less architecture for building simple and scalable  forms on aws",
+  "main": "index.js",
+  "dependencies": {
+    "serverless": "^1.34.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrprofessor/formfly.git"
+  },
+  "author": "mrprofessor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrprofessor/formfly/issues"
+  },
+  "homepage": "https://github.com/Mrprofessor/formfly#readme"
+}
